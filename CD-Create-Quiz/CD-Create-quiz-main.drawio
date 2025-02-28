@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CD-Create-quiz-main" id="RdNCWnpBe2orVZeH23sZ">
-    <mxGraphModel dx="3547" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3269" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,18 +390,6 @@
         <mxCell id="trFabfig3TEXc8IBf_gB-27" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trFabfig3TEXc8IBf_gB-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="trFabfig3TEXc8IBf_gB-31" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="trFabfig3TEXc8IBf_gB-53" value="1. GET/api/classes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="-495" width="120" height="30" as="geometry" />
         </mxCell>
@@ -480,11 +468,23 @@
         <mxCell id="fX-wtkwIHaUJ6KCK5u4g-1" value="Create quiz main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1375" y="-580" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="S1OH64tCCqb2Rh1m8Sa5-2" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S1OH64tCCqb2Rh1m8Sa5-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-8dSVv01-Pq87N6mft0D" name="CD-Create-quiz-opt [Authorized][User select a class]">
-    <mxGraphModel dx="5268" dy="2258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3547" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,18 +564,6 @@
         </mxCell>
         <mxCell id="sBZ_5VeGcuVAlQaXPJCq-25" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sBZ_5VeGcuVAlQaXPJCq-28" value="&amp;nbsp;:CourseController" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="-465" width="130.91" height="40" as="geometry" />
@@ -706,11 +694,23 @@
         <mxCell id="ZFcQzIs-DcJQIqLg3N-o-1" value="Create quiz [opt][Authorized][User select a class]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="-560" width="515" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gLcrVz39x5h0sGZJ6pNG-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gLcrVz39x5h0sGZJ6pNG-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2I_bQ4okJXLoDN57ghHo" name="CD-Create-quiz-opt- [Authorized][User selects a course]">
-    <mxGraphModel dx="4166" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4712" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -767,18 +767,6 @@
         </mxCell>
         <mxCell id="x7r6lBGZO79kgBv_sw3n-25" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="x7r6lBGZO79kgBv_sw3n-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x7r6lBGZO79kgBv_sw3n-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="x7r6lBGZO79kgBv_sw3n-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.221;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="x7r6lBGZO79kgBv_sw3n-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -897,7 +885,7 @@
           <mxGeometry x="-2150" y="-810" width="510" height="360" as="geometry" />
         </mxCell>
         <mxCell id="1ZErU1ofdPN7v0-jgkUI-2" value="&lt;div&gt;2. Show courses details&lt;/div&gt;&lt;div&gt;4.show quiz creation form&lt;/div&gt;&lt;div&gt;7. [quiz_type == single_choice] Show single choice form&lt;/div&gt;&lt;div&gt;11. [quiz_type == multiple_choice] Show multiple choice quiz form&lt;/div&gt;&lt;div&gt;15. [quiz_type == ordering_choice] Show ordering choice quiz form&lt;/div&gt;&lt;div&gt;19. [quiz_type == missing_word_choice] Show missing word choice quiz form&lt;/div&gt;&lt;div&gt;25. [Invalid Data] Show error &quot;Invalid Input&quot;&lt;/div&gt;&lt;div&gt;31. Show error &quot;Please login&quot;&lt;/div&gt;&lt;div&gt;46. Show error &quot;Quiz creation failed&quot;&lt;/div&gt;&lt;div&gt;49. Show Success &quot;Quiz created&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2150" y="-440" width="460" height="170" as="geometry" />
+          <mxGeometry x="-2149.09" y="-410" width="460" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vtj2AHgbJXtqw6mRulO--1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -969,7 +957,19 @@
           <mxGeometry x="-1390" y="-560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="44vXf8xn5963-npmHfLu-1" value="Create quiz [opt][Authorized][User selects a course]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="-820" width="515" height="30" as="geometry" />
+          <mxGeometry x="-1645" y="-860" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g99nAMv1uD03a5XCT4I5-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g99nAMv1uD03a5XCT4I5-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

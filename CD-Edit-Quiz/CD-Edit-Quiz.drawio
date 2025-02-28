@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CD-Edit-quiz-main" id="RdNCWnpBe2orVZeH23sZ">
-    <mxGraphModel dx="5268" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3356" dy="1319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,18 +390,6 @@
         <mxCell id="aEpt4ymE54McEq49jxls-25" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aEpt4ymE54McEq49jxls-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aEpt4ymE54McEq49jxls-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aEpt4ymE54McEq49jxls-28" value="1. GET/api/classes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="-495" width="120" height="30" as="geometry" />
         </mxCell>
@@ -480,11 +468,23 @@
         <mxCell id="pWpOLgYBjsPg_nVxqAp4-1" value="CD Edit quiz main" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="-580" width="450" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yhXvhnZcHloo7xvHVxNO-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yhXvhnZcHloo7xvHVxNO-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-8dSVv01-Pq87N6mft0D" name="CD-Edit-quiz-opt [Authorized][User select a class]">
-    <mxGraphModel dx="3257" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3647" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,16 +565,16 @@
         <mxCell id="sBZ_5VeGcuVAlQaXPJCq-25" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
+            <mxPoint x="-1400" y="-200" as="sourcePoint" />
+            <mxPoint x="-1400" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="sBZ_5VeGcuVAlQaXPJCq-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
+            <mxPoint x="-1430.43" y="-400" as="sourcePoint" />
+            <mxPoint x="-1430.43" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sBZ_5VeGcuVAlQaXPJCq-28" value="&amp;nbsp;:CourseController" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -791,18 +791,6 @@
         <mxCell id="yvQ23Xk6EF1kVoQ56B0F-25" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yvQ23Xk6EF1kVoQ56B0F-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yvQ23Xk6EF1kVoQ56B0F-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yvQ23Xk6EF1kVoQ56B0F-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.221;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yvQ23Xk6EF1kVoQ56B0F-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1451" y="-100" as="sourcePoint" />
@@ -929,11 +917,23 @@
         <mxCell id="hRFl3Tw6e87YVJOcjszD-1" value="CD Edit quiz [opt][Authorized][User selects a course]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-560" width="450" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BA9YEXKxgu3DCLoyCqLh-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BA9YEXKxgu3DCLoyCqLh-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YhpM6NPImV-4tMnOWwzi" name="CD-Edit-quiz-[opt][Authorized][User selects a quiz]">
-    <mxGraphModel dx="4087" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3175" dy="1221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1013,18 +1013,6 @@
         </mxCell>
         <mxCell id="fql5TRea6g3AhEESqZ0n-16" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fql5TRea6g3AhEESqZ0n-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fql5TRea6g3AhEESqZ0n-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fql5TRea6g3AhEESqZ0n-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.221;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fql5TRea6g3AhEESqZ0n-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1152,11 +1140,23 @@
         <mxCell id="fql5TRea6g3AhEESqZ0n-49" value="&lt;div&gt;CD Edit quiz [opt][Authorized][User selects a quiz]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="-560" width="450" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VTk1mbC1RccaF0QLXG5b-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTk1mbC1RccaF0QLXG5b-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Sb2kPGW5O3mWoECJz0UX" name="CD-Edit- quiz-[opt][Authorized][User edits quiz]">
-    <mxGraphModel dx="5217" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3356" dy="1319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1236,18 +1236,6 @@
         </mxCell>
         <mxCell id="PPRKsCcgCp9izIG5YWKn-16" value="&amp;nbsp;:Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="-190" width="130.91" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PPRKsCcgCp9izIG5YWKn-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1430" y="-200" as="sourcePoint" />
-            <mxPoint x="-1430" y="-400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPRKsCcgCp9izIG5YWKn-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="-400" as="sourcePoint" />
-            <mxPoint x="-1400" y="-200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PPRKsCcgCp9izIG5YWKn-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.221;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PPRKsCcgCp9izIG5YWKn-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1395,6 +1383,18 @@
         </mxCell>
         <mxCell id="PPRKsCcgCp9izIG5YWKn-54" value="4. Validate quiz data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1824.55" y="-370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rnUydy-B2jJU_nUcC6yu-2" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1400" y="-210" as="sourcePoint" />
+            <mxPoint x="-1400" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rnUydy-B2jJU_nUcC6yu-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1425.51" y="-400" as="sourcePoint" />
+            <mxPoint x="-1425.51" y="-200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
