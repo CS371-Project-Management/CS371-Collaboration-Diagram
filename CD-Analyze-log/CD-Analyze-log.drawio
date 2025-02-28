@@ -710,7 +710,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2I_bQ4okJXLoDN57ghHo" name="CD Analyze log-[opt][Authorized][User selects a course]">
-    <mxGraphModel dx="5687" dy="2653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4372" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -822,17 +822,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yvQ23Xk6EF1kVoQ56B0F-31" value="&amp;nbsp;:Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-459.99999999999994" y="-220" width="130.91" height="40" as="geometry" />
+          <mxGeometry x="-459.99999999999994" y="-70" width="130.91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yvQ23Xk6EF1kVoQ56B0F-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-410" y="-400" as="sourcePoint" />
-            <mxPoint x="-410" y="-240" as="targetPoint" />
+            <mxPoint x="-410" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yvQ23Xk6EF1kVoQ56B0F-33" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="-240" as="sourcePoint" />
+            <mxPoint x="-380" y="-90" as="sourcePoint" />
             <mxPoint x="-380" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -893,10 +893,10 @@
         <mxCell id="fzN7lYfdNd3wKxZBkGT4-4" value="6. Verify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1470" y="-100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xJY9QiCvo-bA-yBKb-U6-1" value="&lt;div align=&quot;left&quot;&gt;8. 401 Unauthorized&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;19. 500 Internal Server Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;22. 404 Not Found&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;26. 200 OK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1670" y="-430" width="190" height="70" as="geometry" />
+        <mxCell id="xJY9QiCvo-bA-yBKb-U6-1" value="&lt;div align=&quot;left&quot;&gt;8. 401 Unauthorized&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;37. 500 Internal Server Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;40. 404 Not Found&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;43. 200 OK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1670" y="-425" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xJY9QiCvo-bA-yBKb-U6-2" value="&lt;div align=&quot;left&quot;&gt;2. Show Log-Type menu&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;9. Show error &quot;Please log in&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;20. Show error &quot;Failed to fetch logs&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;23. Show message &quot;Log not found&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;27. Show Logs list&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="xJY9QiCvo-bA-yBKb-U6-2" value="&lt;div align=&quot;left&quot;&gt;2. Show Log-Type menu&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;9. Show error &quot;Please log in&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;38. Show error &quot;Failed to fetch logs&quot;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;41. Show message &quot;Log not found&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;44. Show Logs list&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2080" y="-430" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xJY9QiCvo-bA-yBKb-U6-3" value="&lt;div align=&quot;left&quot;&gt;10.&amp;nbsp; [Authorized] Route to Router&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;7.&amp;nbsp; [Unauthorized (401 Unauthorized)] 401 Unauthorized&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -911,20 +911,20 @@
         <mxCell id="z9EciTAt48R_fGcb0aP4-3" value="&lt;div&gt;13. .GetAllLogs(courseId,logType)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-670" y="-490" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z9EciTAt48R_fGcb0aP4-4" value="&lt;div&gt;14. SELECT * FROM logs WHERE course_id = @course_id AND type = @log_type&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-320" width="470" height="30" as="geometry" />
+        <mxCell id="z9EciTAt48R_fGcb0aP4-4" value="&lt;div&gt;14. SELECT * FROM quizzes WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;16. SELECT * FROM choice_quizzes WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;18. SELECT * FROM choice_answers WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;20. SELECT * FROM ordering_quizzes WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;22. SELECT * FROM ordering_answers WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;24. SELECT * FROM missing_word_quizzes WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;26. SELECT * FROM quiz_histories WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;28. SELECT * FROM choice_histories WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;30. SELECT * FROM ordering_histories WHERE course_id = @course_id&lt;/div&gt;&lt;div&gt;32. SELECT * FROM missing_word_histories WHERE course_id = @course_id&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-860" y="-330" width="460" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="z9EciTAt48R_fGcb0aP4-5" value="15. Logs, Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-320" width="110" height="30" as="geometry" />
+        <mxCell id="z9EciTAt48R_fGcb0aP4-5" value="&lt;div align=&quot;left&quot;&gt;15. Logs, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;17. choice_quizzes, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;19. choice_answers, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;21. ordering_quizzes, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;23. ordering_answers, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;25. missing_word_quizzes, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;27. quiz_histories, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;29. choice_histories, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;31. ordering_histories, Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;33. missing_word_histories, Error&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="-330" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="z9EciTAt48R_fGcb0aP4-6" value="16. Logs, Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="z9EciTAt48R_fGcb0aP4-6" value="34. Logs, Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-655" y="-425" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z9EciTAt48R_fGcb0aP4-7" value="17. Logs, Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="-425" width="110" height="30" as="geometry" />
+        <mxCell id="z9EciTAt48R_fGcb0aP4-7" value="35. Logs, Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="-430" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z9EciTAt48R_fGcb0aP4-8" value="&lt;div&gt;18. [Error != Null] 500 Internal Server Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;21.&amp;nbsp; [Logs == Null] 404 Not Found&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;25. 200 OK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="-430" width="270" height="60" as="geometry" />
+        <mxCell id="z9EciTAt48R_fGcb0aP4-8" value="&lt;div&gt;36. [Error != Null] 500 Internal Server Error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;39.&amp;nbsp; [Logs == Null] 404 Not Found&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;42. 200 OK&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1350" y="-420" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hRFl3Tw6e87YVJOcjszD-1" value="CD&amp;nbsp;Analyze log&amp;nbsp; [opt][Authorized][User selects a course]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="-580" width="600" height="30" as="geometry" />
